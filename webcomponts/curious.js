@@ -17,7 +17,7 @@ $.getJSON("./data/curious.json", function (data) {
                 <div class="curious-logo w-100" id="CURIOUSlOGOS">
                `
                 $.each(value.curiousImages, function(index, image) {
-                  curious += `<div class="companyLogosBlock"><img src="../images/company-logos/${image.curimages}" alt="Curious Image ${index + 1}" /></div>`;
+                  curious += `<div class="companyLogosBlock"><img src="https://github.com/pixel4inch/evolvesv/blob/main/images/company-logos/${image.curimages}" alt="Curious Image ${index + 1}" /></div>`;
                 });
                 curious += `
                 </div>

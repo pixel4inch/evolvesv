@@ -8,7 +8,7 @@ class HeroComponent extends HTMLElement {
    <div id="hero">
       <div class="full-video-container">
          <video autoplay muted loop id="myVideo">
-            <source src="../videos/video_bg.mp4" type="video/mp4">
+            <source src="https://github.com/pixel4inch/evolvesv/blob/main/videos/video_bg.mp4" type="video/mp4">
          </video>
       </div>
     <div class="hero-content">

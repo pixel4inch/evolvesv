@@ -130,7 +130,7 @@ $.getJSON("./data/speakers.json", function (data) {
   $.each(data, function (key, value) {
      speakers += `
           <div>
-          <speaker-card class="col-lg-4 p-2" speakername="${value.speakerName}"  speakerdeg="${value.speakerDesignation}"  speakercompnay="${value.speakerCompany}" speakerimage="../images/speakers/${value.speakerImage}"></speaker-card>
+          <speaker-card class="col-lg-4 p-2" speakername="${value.speakerName}"  speakerdeg="${value.speakerDesignation}"  speakercompnay="${value.speakerCompany}" speakerimage="https://github.com/pixel4inch/evolvesv/blob/main/images/speakers/${value.speakerImage}"></speaker-card>
           </div>
           `;
   });
