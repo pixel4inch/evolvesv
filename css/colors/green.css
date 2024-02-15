@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+
+:root {
+    --mainBrandColor: #6AFE63 ;
+    --mainBrandColorshade1: #dcffdb ;
+    --mainBrandColorshade2: #97fe92 ;
+    --mainBrandColorshade3: #52fe4a ;
+    --mainBrandColorshade4: #0dfd02 ;
+    --mainBrandColorshade5: #09b501 ;
+    --mainBrandColorshade6: #066d01;
+    --mainBrandColorshade7: #022400;
+    --secondaryFocus:#fe636f;
+    --fadedHighlight:#b2454e;
+    --white:#fff;
+    --black:#101010;
+    --blackshade1:#e6e6e6;
+    --blackshade2:#e6e6e6;
+    --blackshade3:#c8c8c8;
+    --blackshade4:#a4a4a4;
+    --blackshade5:#808080;
+    --blackshade6:#5b5b5b;
+    --blackshade7:#373737;
+    --blackshade8:#121212;
+    --primaryfont:'Poppins', sans-seri;
+    --secondaryfont:"Lora", serif;
+    --thirdfont:"themify";
+ 
+  }
+
+
+
+
+
+
+

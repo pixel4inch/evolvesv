@@ -1,0 +1,62 @@
+[{
+        "curiousNumber": "5,000",
+        "curiousType": "startup founders and operators",
+        "curiousImages": [
+        {"curimages" : "1.png"},
+        {"curimages" : "2.png"},
+        {"curimages" : "3.png"},
+        {"curimages" : "4.png"},
+        {"curimages" : "5.png"},
+        {"curimages" : "6.png"},
+        {"curimages" : "7.png"},
+        {"curimages" : "8.png"},
+        {"curimages" : "9.png"},
+        {"curimages" : "10.png"},
+        {"curimages" : "11.png"},
+        {"curimages" : "15.png"}
+
+        ]
+    },
+
+    {
+        "curiousNumber": "3,000",
+        "curiousType": "investors",
+        "curiousImages": [
+            {"curimages" : "16.png"},
+            {"curimages" : "17.png"},
+            {"curimages" : "18.png"},
+            {"curimages" : "19.png"},
+            {"curimages" : "20.png"},
+            {"curimages" : "21.png"},
+            {"curimages" : "22.png"},
+            {"curimages" : "23.png"},
+            {"curimages" : "24.png"},
+            {"curimages" : "25.png"},
+            {"curimages" : "26.png"},
+            {"curimages" : "30.png"}
+            
+        ]
+    },
+
+    {
+        "curiousNumber": "300",
+        "curiousType": "media representatives ",
+        "curiousImages": [{"curimages" : "31.png"},
+        {"curimages" : "32.png"},
+        {"curimages" : "33.png"},
+        {"curimages" : "34.png"},
+        {"curimages" : "35.png"},
+        {"curimages" : "36.png"},
+        {"curimages" : "37.png"},
+        {"curimages" : "38.png"},
+        {"curimages" : "39.png"},
+        {"curimages" : "40.png"},
+        {"curimages" : "41.png"},
+        {"curimages" : "42.png"},
+        {"curimages" : "43.png"}
+  
+        
+        ]
+    }
+
+]

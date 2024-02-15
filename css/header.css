@@ -1,0 +1,89 @@
+/*===========================================================
+    DEFAULT STYLES
+============================================================*/
+
+.customeNavBar{
+    background:transparent !important;
+    transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+    -webkit-transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+    z-index: 99999;
+}
+
+.customeNavBar.navbackground-color{
+    background:var(--black) !important;
+    transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+    -webkit-transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+    border-bottom: rgba(255,255,255,0.2) solid 1px;
+}
+
+.navbar-brand h1.brandName {
+    color: var(--white);
+    font-size: 31px;
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: 0.5px;
+}
+
+.navbar-brand h1.brandName sup{
+    font-size: 16px;
+    font-weight: 400;
+    top:-10px;
+}
+
+#navbarNav .navbar-nav li{
+    padding: 0px;
+}
+
+#navbarNav .navbar-nav li a {
+    color: var(--white);
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0px 7px;
+    opacity: 0.8;
+}
+
+#navbarNav .navbar-nav li.search a span{
+    margin-top: 4px !important;
+    display: block;
+    margin-left: 20px;
+}
+
+#navbarNav .navbar-nav li.search a span i::before{
+    font-size: 22px;
+}
+
+.dropdown-menu{
+    background-color: rgba(0,0,0,0.8);
+    border-radius: 10px !important;
+}
+
+.navbar-toggler span.ti-menu::before{
+    color: var(--white);
+    font-size: 35px;
+}
+.navbar-toggler span.ti-menu{
+    margin-top: -10px !important;
+    display: block;
+}
+
+/*---********************************
+            MEDIA QURIES
+********************************---*/
+@media (max-width: 991px){
+
+    #navbarNav .navbar-nav li a {
+        color: var(--white);
+        font-size: 30px;
+        font-weight: 500;
+        padding: 0px 7px;
+        opacity: 1;
+        text-align: left;
+        margin: 17px 0;
+        font-weight: bold;
+    }
+
+    #navbarNav .navbar-nav li.search{
+        display: none;
+    }
+
+}

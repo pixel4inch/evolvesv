@@ -1,0 +1,159 @@
+
+[
+ {
+  "Id": 1,
+  "speakerName": "CLAIR HUGHES JOHNSON",
+  "speakerDesignation": "CHIEF CORPORATE ADVISOR OF STRIPE",
+  "speakerCompany": "FINTECH",
+  "speakerImage": "SPAKER_01.jpg"
+ },
+ {
+  "Id": 2,
+  "speakerName": "TOY XU",
+  "speakerDesignation": "CO-FOUNDER & CEO OF DOORDASH",
+  "speakerCompany": "FOOD DELIVERY",
+  "speakerImage": "SPAKER_02.jpg"
+ },
+ {
+  "Id": 3,
+  "speakerName": "SHUO WANG",
+  "speakerDesignation": "CO-FOUNDER & CRO OF DEEL",
+  "speakerCompany": "FINTECH",
+  "speakerImage": "SPAKER_03.jpg"
+ },
+ {
+  "Id": 4,
+  "speakerName": "CAL HENDERSON",
+  "speakerDesignation": "CO-FOUNDER & CTO OF SLACK",
+  "speakerCompany": "WORKTECH",
+  "speakerImage": "SPAKER_04.jpg"
+ },
+ {
+  "Id": 5,
+  "speakerName": "MARC TARPENNING",
+  "speakerDesignation": "CO-FOUNDER OF TESLA  & CEO OF SPERO VENTURES",
+  "speakerCompany": "VENTURE CAPITAL",
+  "speakerImage": "SPAKER_05.png"
+ },
+ {
+  "Id": 6,
+  "speakerName": "SANNA MARIN",
+  "speakerDesignation": "FORMER PRIME MISTER OF FINLAND",
+  "speakerCompany": "POLITICS",
+  "speakerImage": "SPAKER_06.jpg"
+ },
+ {
+  "Id": 7,
+  "speakerName": "ALFRED LIN",
+  "speakerDesignation": "PARTNER OF SEQUOIA CAPITAL",
+  "speakerCompany": "VENTURE CAPITAL",
+  "speakerImage": "SPAKER_07.jpg"
+ },
+ {
+  "Id": 8,
+  "speakerName": "ASHA SHARMA",
+  "speakerDesignation": "COO OF INSTACART",
+  "speakerCompany": "FOOD DELIVERY",
+  "speakerImage": "SPAKER_08.jpg"
+ },
+ {
+  "Id": 9,
+  "speakerName": "SONALI DE RYCKER",
+  "speakerDesignation": "PARTNER OF ACCEL",
+  "speakerCompany": "VENTURE CAPITAL",
+  "speakerImage": "SPAKER_09.jpg"
+ },
+ {
+  "Id": 10,
+  "speakerName": "ROBERT GENTZ",
+  "speakerDesignation": "CO-FOUNDER  CO-CEO OF ZALANDO",
+  "speakerCompany": "E-COMMERCE",
+  "speakerImage": "SPAKER_10.jpg"
+ },
+ {
+  "Id": 11,
+  "speakerName": "CHRISTIAN HECKER",
+  "speakerDesignation": "CO-FOUNDER OF TRADE REPUBLIC",
+  "speakerCompany": "FINTECH",
+  "speakerImage": "SPAKER_11.jpg"
+ },
+ {
+  "Id": 12,
+  "speakerName": "JOHAN BRENNER",
+  "speakerDesignation": "GENERAL PARTNER OF CREANDUM",
+  "speakerCompany": "VENTURE CAPITAL",
+  "speakerImage": "SPAKER_12.jpg"
+ },
+ {
+  "Id": 13,
+  "speakerName": "DES TROYNOR ",
+  "speakerDesignation": "CO-FOUNDER & CHIEF STRATEGY OFFICER OF INTERCOM",
+  "speakerCompany": "ENTERPRISE SOFTWARE",
+  "speakerImage": "SPAKER_13.jpg"
+ },
+ {
+  "Id": 14,
+  "speakerName": "MIKI KUUSI",
+  "speakerDesignation": "CO-FOUNDER & CEO OF WOLT",
+  "speakerCompany": "FOOD DELIVERY",
+  "speakerImage": "SPAKER_14.jpg"
+ },
+ {
+  "Id": 15,
+  "speakerName": "LINDSAY KAPLAN",
+  "speakerDesignation": "CO-FOUNDER & CHIEF BRAND OFFICER OF CHIEF",
+  "speakerCompany": "SOCIAL MEDIA",
+  "speakerImage": "SPAKER_15.jpg"
+ },
+ {
+  "Id": 16,
+  "speakerName": "HOVHANNES AVOYAN",
+  "speakerDesignation": "CO-FOUNDER & CEO OF PICSART",
+  "speakerCompany": "CONTENT PRODUCTION",
+  "speakerImage": "SPAKER_16.jpg"
+ },
+ {
+  "Id": 17,
+  "speakerName": "JAI DAS",
+  "speakerDesignation": "CO-FOUNDER & PRESIDENT OF SAPPHIRE VENTURES",
+  "speakerCompany": "VENTURE CAPITAL",
+  "speakerImage": "SPAKER_17.jpg"
+ },
+ {
+  "Id": 18,
+  "speakerName": "JANNICK MALLING",
+  "speakerDesignation": "CO-FOUNDER & CO-CEO OF PUBLIC",
+  "speakerCompany": "FINTECH",
+  "speakerImage": "SPAKER_18.jpg"
+ },
+ {
+  "Id": 19,
+  "speakerName": "PASCAL GAUTHIER",
+  "speakerDesignation": "CEO & CHAIRMAN OF LEDGER",
+  "speakerCompany": "FINTECH",
+  "speakerImage": "SPAKER_19.jpg"
+ },
+ {
+  "Id": 20,
+  "speakerName": "HARRY NELIS ",
+  "speakerDesignation": "PARTNER OF ACCES",
+  "speakerCompany": "VENTURE CAPITAL",
+  "speakerImage": "SPAKER_20.jpg"
+ },
+ {
+  "Id": 21,
+  "speakerName": "STAN VISHNEVSKIY",
+  "speakerDesignation": "VCO-FOUNDER & CTO OF DISCORD",
+  "speakerCompany": "GAMING",
+  "speakerImage": "SPAKER_21.jpg"
+ },
+ {
+  "Id": 22,
+  "speakerName": "SUDNEESH NAIR",
+  "speakerDesignation": "CEO OF THOUGHTSPOT",
+  "speakerCompany": "ENTERPRISE SOFTWARE",
+  "speakerImage": "SPAKER_22.jpg"
+ }
+
+]
+

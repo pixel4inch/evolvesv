@@ -1,0 +1,45 @@
+[
+    {
+        "title": "EVENT INFO & FAQ",
+        "link": "javascript:valid(0)",
+        "imgpath": "../images/survival/survival_img_1.jpg"
+
+    },
+
+    {
+        "title": "GUIDE TO HELSINKI",
+        "link": "javascript:valid(0)",
+        "imgpath": "../images/survival/survival_img_2.jpg"
+    },
+
+    {
+        "title": "HOW TO PREPARE FOR EVOlVE",
+        "link": "javascript:valid(0)",
+        "imgpath": "../images/survival/survival_img_3.jpg"
+    },
+    {
+        "title": "MY EVOLVE APP",
+        "link": "javascript:valid(0)",
+        "imgpath": "../images/survival/survival_img_4.jpg"
+    },
+    {
+        "title": "FOUNDERS DAY",
+        "link": "javascript:valid(0)",
+        "imgpath": "../images/survival/survival_img_5.jpg"
+    },
+    {
+        "title": "INVESTOR DAY",
+        "link": "javascript:valid(0)",
+        "imgpath": "../images/survival/survival_img_6.jpg"
+    },
+    {
+        "title": "MEDIA DAY",
+        "link": "javascript:valid(0)",
+        "imgpath": "../images/survival/survival_img_7.jpg"
+    },
+    {
+        "title": "SLUSH AFTERPARTY",
+        "link": "javascript:valid(0)",
+        "imgpath": "../images/survival/survival_img_8.jpg"
+    }
+]
